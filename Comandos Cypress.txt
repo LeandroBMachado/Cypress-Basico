@@ -1,0 +1,20 @@
+npx cypress open = iniciar cypress
+
+
+cy.get("name site").type(preenchernome) = preencher txt
+
+
+.select();= seleciona um elemnto em uma lista 
+
+.check(); = clica no elemento
+
+
+
+as(usado como uma forma compromida de reaproveitar)
+
+Alias usa o estado do elemento 
+
+app:Calculator
+package:com.google.android.calculator
+Launcher:com.android.calculator2.Calculator
+
